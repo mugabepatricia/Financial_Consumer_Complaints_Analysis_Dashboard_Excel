@@ -91,6 +91,7 @@ If implemented, these strategies can:
 - Support better resource allocation
 
 ## Project Files
+- <a href="https://github.com/mugabepatricia/Financial_Consumer_Complaints_Analysis_Dashboard_Excel/blob/main/Financial_Consumer_Complaints.xlsx">Cumulus Financial Dataset</a>
 
 ## About Me
 I’m an aspiring data analyst with a strong interest in using data to solve real-world business problems, particularly in finance and healthcare.
